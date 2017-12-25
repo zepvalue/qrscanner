@@ -60,7 +60,4 @@ body, html {
 }
 .preview-container {
   border: .4em solid black;
-  display: flex;
-  width: 100%;
-  overflow: hidden;
 }
